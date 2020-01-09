@@ -1,0 +1,20 @@
+/* 
+    Created on : 9-Jan-2020
+    Author     : Vikram
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Merienda|Stardos+Stencil');
+
+body{
+    background-image: url('../images/bg.jpg') !important;
+    
+}
+
+.row{
+    color: darkslategray;
+}
+
+hr {
+  border: 1px dashed red;
+  border-radius: 1px;
+}
